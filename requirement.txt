@@ -1,2 +1,5 @@
 pylint
 pytest
+
+python3 -m venv ~/.myrepo
+source ~/.myrepo/bin/activate
